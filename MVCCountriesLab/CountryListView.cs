@@ -17,7 +17,6 @@ namespace MVCCountriesLab
         public void Display()
         {
 
-
             for (int i =0; i < Countries.Count; i++)
             {
                 Country c = Countries[i];
