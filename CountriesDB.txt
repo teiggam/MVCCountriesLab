@@ -1,0 +1,5 @@
+United States of America;North America;red,white,blue
+Japan;Asia;red,white
+Egypt;Africa;red,white,black
+Finland;Europe;blue,white
+Sweden;Europe;blue,yellow

@@ -1,0 +1,13 @@
+C:\Users\Maggie\Documents\Grand Circus\Projects\MVCCountriesLab\MVCCountriesLab\bin\Debug\netcoreapp3.1\MVCCountriesLab.exe
+C:\Users\Maggie\Documents\Grand Circus\Projects\MVCCountriesLab\MVCCountriesLab\bin\Debug\netcoreapp3.1\MVCCountriesLab.deps.json
+C:\Users\Maggie\Documents\Grand Circus\Projects\MVCCountriesLab\MVCCountriesLab\bin\Debug\netcoreapp3.1\MVCCountriesLab.runtimeconfig.json
+C:\Users\Maggie\Documents\Grand Circus\Projects\MVCCountriesLab\MVCCountriesLab\bin\Debug\netcoreapp3.1\MVCCountriesLab.runtimeconfig.dev.json
+C:\Users\Maggie\Documents\Grand Circus\Projects\MVCCountriesLab\MVCCountriesLab\bin\Debug\netcoreapp3.1\MVCCountriesLab.dll
+C:\Users\Maggie\Documents\Grand Circus\Projects\MVCCountriesLab\MVCCountriesLab\bin\Debug\netcoreapp3.1\MVCCountriesLab.pdb
+C:\Users\Maggie\Documents\Grand Circus\Projects\MVCCountriesLab\MVCCountriesLab\obj\Debug\netcoreapp3.1\MVCCountriesLab.csproj.AssemblyReference.cache
+C:\Users\Maggie\Documents\Grand Circus\Projects\MVCCountriesLab\MVCCountriesLab\obj\Debug\netcoreapp3.1\MVCCountriesLab.AssemblyInfoInputs.cache
+C:\Users\Maggie\Documents\Grand Circus\Projects\MVCCountriesLab\MVCCountriesLab\obj\Debug\netcoreapp3.1\MVCCountriesLab.AssemblyInfo.cs
+C:\Users\Maggie\Documents\Grand Circus\Projects\MVCCountriesLab\MVCCountriesLab\obj\Debug\netcoreapp3.1\MVCCountriesLab.csproj.CoreCompileInputs.cache
+C:\Users\Maggie\Documents\Grand Circus\Projects\MVCCountriesLab\MVCCountriesLab\obj\Debug\netcoreapp3.1\MVCCountriesLab.dll
+C:\Users\Maggie\Documents\Grand Circus\Projects\MVCCountriesLab\MVCCountriesLab\obj\Debug\netcoreapp3.1\MVCCountriesLab.pdb
+C:\Users\Maggie\Documents\Grand Circus\Projects\MVCCountriesLab\MVCCountriesLab\obj\Debug\netcoreapp3.1\MVCCountriesLab.genruntimeconfig.cache
